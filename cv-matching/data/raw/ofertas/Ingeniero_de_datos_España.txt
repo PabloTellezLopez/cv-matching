@@ -1,0 +1,295 @@
+Oferta 1
+Puesto: Desarrollador Junior en Python
+Desarrollador Junior en Python con verificación
+Empresa: TransPerfect
+
+Descripción:
+Acerca del empleo
+Los Ingenieros de Software Junior son profesionales técnicamente capacitados con el deseo de diseñar, desarrollar, solucionar problemas y mantener soluciones innovadoras para incidencias técnicas de producción, incluyendo el desarrollo de scripts y aplicaciones para la manipulación de datos y archivos.
+El candidato ideal es una persona colaborativa que prospera en un entorno de trabajo dinámico, trabajando junto a otros Ingenieros de Software, Ingenieros de Automatización y Product Managers para desarrollar soluciones creativas para procesos de localización y productos tecnológicos de la empresa. Debe tener una actitud proactiva de aprendizaje, con interés y experiencia en web scraping.
+
+Descripción del puesto:
+
+Escribir código Python limpio, eficiente y mantenible, contribuyendo al desarrollo de aplicaciones y soluciones de software usando Python, con un fuerte enfoque en crawlers web para sitios de literatura local.
+
+Colaborar con equipos multidisciplinarios, trabajando estrechamente con otros ingenieros, product managers y project managers para definir, desarrollar y entregar funcionalidades de alta calidad.
+
+Identificar errores en el código, solucionarlos y garantizar soluciones robustas y de alto rendimiento.
+
+Realizar mantenimiento regular de todos los crawlers para asegurar una óptima extracción de datos, garantizando el cumplimiento de estándares relevantes y gestionando la recolección de datos a gran escala.
+
+Brindar soporte técnico a los project managers para todos los crawlers, aprendiendo todas las tecnologías de TransPerfect involucradas en el servicio de monitoreo de literatura local.
+
+Integrar y utilizar APIs (tanto externas como internas) para lograr una integración fluida y buen rendimiento entre nuestras tecnologías clave.
+
+Asistir en las pruebas de software y documentación, participando en la escritura de pruebas unitarias y funcionales, y ayudando a mantener la documentación del código y los procesos.
+
+Aprender y desarrollarse en nuevas tecnologías: mantenerse actualizado con tecnologías emergentes y buenas prácticas en ingeniería de software, aplicándolas para resolver problemas.
+
+Apoyar el proceso de despliegue, colaborando en la implementación y monitoreo de aplicaciones en entornos de pruebas (staging) y producción.
+
+Completar todas las tareas adicionales que se consideren adecuadas para este rol y que sean asignadas por el responsable o supervisor.
+
+Habilidades y cualificaciones requeridas:
+
+Título universitario mínimo o equivalente.
+
+Mínimo 1-2 años de experiencia en desarrollo de software usando Python.
+
+Fluidez en inglés.
+
+Dominio en la escritura de código en Python.
+
+Capacidad para escribir código nuevo y trabajar, comprender y depurar código preexistente.
+
+Excelentes habilidades para la detección y resolución de errores de software.
+
+Conocimientos de Microsoft Office (Word, Excel, Outlook).
+
+Habilidades excepcionales de resolución de problemas y pensamiento analítico.
+
+Perfil creativo y proactivo.
+
+Capacidad para aprender y destacar en distintos entornos tecnológicos.
+
+Gran curiosidad y deseo de mejorar procesos.
+
+Excelente atención al detalle para garantizar entregas de alta calidad al cliente.
+
+Fuertes habilidades de comunicación y organización.
+
+Capacidad para trabajar de forma independiente y en equipo, y sentirse cómodo interactuando con otros equipos.
+
+Capacidad para gestionar y trabajar en múltiples proyectos simultáneamente.
+
+Fuerte ética de trabajo.
+
+Habilidades y cualificaciones deseadas:
+
+Fluidez en un idioma extranjero.
+
+Experiencia en web crawling/web scraping y/o automatización de navegadores (específicamente con Selenium, Requests y BeautifulSoup4).
+
+Experiencia con SQL para realizar consultas y manipulación de datos.
+
+Conocimiento en desarrollo de middleware que consuma APIs REST.
+
+Experiencia trabajando con metodologías Agile/Scrum.
+
+Historial comprobado de implementación exitosa en todas las etapas del ciclo de vida de un proyecto, desde la recopilación de requisitos hasta la implementación y mejoras.
+
+Conocimiento de APIs de Aspose.
+
+Certificaciones de desarrollo en AWS, Azure o GCP.
+
+Experiencia en pipelines de DevOps.
+
+TransPerfect ofrece igualdad de oportunidades laborales a todas las personas, independientemente de su raza, color, credo, religión, género, edad, orientación sexual, origen nacional, discapacidad, condición de veterano u otra característica protegida por la legislación local.
+
+Celebramos la diversidad como uno de nuestros valores fundamentales y tenemos un objetivo claro: ser un lugar de trabajo inclusivo donde una mezcla diversa de personas talentosas quiera venir, quedarse y dar lo mejor de sí mismas. Junto a colegas apasionados, creativos y colaborativos, trabajamos para garantizar que la accesibilidad sea para todos.
+
+Al postularme, confirmo que he leído y acepto la Política de Privacidad de TransPerfect: https://www.transperfect.com/about/data-privacy-recruiting
+----------------------------------------
+Oferta 2
+Puesto: Ingeniero Junior en Python
+Ingeniero Junior en Python con verificación
+Empresa: TransPerfect
+
+Descripción:
+Acerca del empleo
+Los Ingenieros de Software Junior son profesionales técnicamente capacitados con el deseo de diseñar, desarrollar, solucionar problemas y mantener soluciones innovadoras para incidencias técnicas de producción, incluyendo el desarrollo de scripts y aplicaciones para la manipulación de datos y archivos.
+El candidato ideal es una persona colaborativa que prospera en un entorno de trabajo dinámico, trabajando junto a otros Ingenieros de Software, Ingenieros de Automatización y Product Managers para desarrollar soluciones creativas para procesos de localización y productos tecnológicos de la empresa. Debe tener una actitud proactiva de aprendizaje, con interés y experiencia en web scraping.
+
+Descripción del puesto:
+
+Escribir código Python limpio, eficiente y mantenible, contribuyendo al desarrollo de aplicaciones y soluciones de software usando Python, con un fuerte enfoque en crawlers web para sitios de literatura local.
+
+Colaborar con equipos multidisciplinarios, trabajando estrechamente con otros ingenieros, product managers y project managers para definir, desarrollar y entregar funcionalidades de alta calidad.
+
+Detectar y depurar errores, identificar fallos e incidencias en el código, corregirlos y garantizar soluciones robustas y de alto rendimiento.
+
+Realizar mantenimiento regular de todos los crawlers para asegurar una óptima extracción de datos, garantizando el cumplimiento de estándares relevantes y gestionando la recolección de datos a gran escala.
+
+Brindar soporte técnico a los project managers para todos los crawlers, aprendiendo todas las tecnologías de TransPerfect involucradas en el servicio de monitoreo de literatura local.
+
+Integrar y utilizar APIs (tanto externas como internas) para lograr una integración fluida y buen rendimiento entre nuestras tecnologías clave.
+
+Asistir en las pruebas de software y documentación, participando en la escritura de pruebas unitarias y funcionales, y ayudando a mantener la documentación del código y los procesos.
+
+Aprender y desarrollarse en nuevas tecnologías: mantenerse actualizado con tecnologías emergentes y buenas prácticas en ingeniería de software, aplicándolas para resolver problemas.
+
+Apoyar el proceso de despliegue, colaborando en la implementación y monitoreo de aplicaciones en entornos de pruebas (staging) y producción.
+
+Completar todas las tareas adicionales que se consideren adecuadas para este rol y que sean asignadas por el responsable o supervisor.
+
+Habilidades y cualificaciones requeridas:
+
+Título universitario mínimo o equivalente.
+
+Mínimo 1-2 años de experiencia en desarrollo de software usando Python.
+
+Fluidez en inglés.
+
+Dominio en la escritura de código en Python.
+
+Capacidad para escribir código nuevo y trabajar, comprender y depurar código preexistente.
+
+Excelentes habilidades para la resolución de problemas de software.
+
+Conocimientos de Microsoft Office (Word, Excel, Outlook).
+
+Habilidades excepcionales de resolución de problemas y pensamiento analítico.
+
+Perfil creativo y proactivo.
+
+Capacidad para aprender y destacar en distintos entornos tecnológicos.
+
+Gran curiosidad y deseo de mejorar procesos.
+
+Excelente atención al detalle para garantizar entregas de alta calidad al cliente.
+
+Fuertes habilidades de comunicación y organización.
+
+Capacidad para trabajar de forma independiente y en equipo, y sentirse cómodo interactuando con otros equipos.
+
+Capacidad para gestionar y trabajar en múltiples proyectos simultáneamente.
+
+Fuerte ética de trabajo.
+
+Habilidades y cualificaciones deseadas:
+
+Fluidez en un idioma extranjero.
+
+Experiencia en web crawling/web scraping y/o automatización de navegadores (específicamente Selenium, Requests y BeautifulSoup4).
+
+Experiencia con SQL para realizar consultas y manipulación de datos.
+
+Conocimiento en desarrollo de middleware que consuma APIs REST.
+
+Experiencia trabajando con metodologías Agile/Scrum.
+
+Historial comprobado de implementación exitosa en todas las etapas del ciclo de vida de un proyecto, desde la recopilación de requisitos hasta la implementación y mejoras.
+
+Conocimiento de APIs de Aspose.
+
+Certificaciones de desarrollo en AWS, Azure o GCP.
+
+Experiencia en pipelines de DevOps.
+
+TransPerfect ofrece igualdad de oportunidades laborales a todas las personas, independientemente de su raza, color, credo, religión, género, edad, orientación sexual, origen nacional, discapacidad, condición de veterano u otra característica protegida por la legislación local.
+
+Celebramos la diversidad como uno de nuestros valores fundamentales y tenemos un objetivo claro: ser un lugar de trabajo inclusivo donde una mezcla diversa de personas talentosas quiera venir, quedarse y dar lo mejor de sí mismas. Junto a colegas apasionados, creativos y colaborativos, trabajamos para garantizar que la accesibilidad sea para todos.
+
+Al postularme, confirmo que he leído y acepto la Política de Privacidad de TransPerfect: https://www.transperfect.com/about/data-privacy-recruiting
+----------------------------------------
+Oferta 3
+Puesto: Ingeniero de datos
+Ingeniero de datos
+Empresa: LIS Data Solutions ES | Data for Change
+Descripción:
+Acerca del empleo
+Hola, somos LIS Data Solutions, una ingeniería especializada en el análisis de datos, que acompaña y ayuda a las empresas a transformar y desarrollar su negocio con soluciones tecnológicas en proyectos de Industria 4.0, Analítica avanzada de Datos, Big data e Inteligencia Artificial.
+
+En LIS tenemos desarrollada una cultura que sitúa a las personas en el centro, y por ello en 2022 hemos sido premiados por la Calidad en el Empleo en Cantabria.
+
+Somos una empresa joven, con perspectivas de crecimiento rápido y en la actualidad contamos con oficinas en Vitoria, Santander, Barcelona, Hamburgo y Ulm (Alemania)
+
+¿Qué buscamos?
+En LIS Data Solutions queremos incorporar DATA ENGINIEERS para ayudar en el desarrollo de nuestras soluciones en nuestras oficinas de Bezana (Cantabria).
+
+Descripción de funciones:
+Trabajar junto al resto de componentes del equipo de proyectos para diseñar y desarrollar nuestras soluciones de datos.
+Desarrollar plataformas de tratamiento y almacenamiento de datos, con interacción con sistemas de BBDD, asegurando su escalabilidad y rendimiento.
+Participar en el diseño y desarrollo de scripts de extracción, tratamiento y almacenamiento de datos con Python, Pandas y pySpark sobre Databricks.
+Trabajar con herramientas de control de versiones como Git.
+Desarrollar dashboards para la visualización óptima de los datos
+Participar en la revisión del código y asegurar que los estándares de calidad sean cumplidos.
+
+Requisitos deseables:
+Graduados de ramas técnicas (Ingenieros informáticos, matemáticos, físicos), o en su defecto FPs de ramas DAM con especialización en Big Data.
+Al menos 1 año de experiencia en desarrollo de ETLs con Python, usando numpy y Pandas.
+Conocimiento de pySpark y del entorno Databricks.
+Conocimiento de las soluciones de Azure para el tratamiento de datos en el cloud (Azure Blob Storage, Azure Synapse, etc.)
+Conocimiento en la utilización de distintas herramientas de visualización como PowerBI, Qlik Sense o Tableau.
+Manejo con entornos de Bases de Datos, tanto SQL (Postgres, MySQL, SQLServer. Azure SQL) como No SQL (Mongo DB).
+Familiaridad con Git u otros sistemas de control de versiones.
+Habilidades de resolución de problemas y depuración de código.
+Excelentes capacidades de comunicación y capacidad para trabajar en equipo y cliente.
+Inglés mínimo B2
+
+Si te vienes, te ofrecemos:
+Plan de carrera personalizado y estable.
+Contrato indefinido a jornada completa.
+Flexibilidad horaria.
+23 días hábiles de vacaciones.
+Jornada intensiva los viernes, en verano y en Navidad.
+Gimnasio gratuito.
+----------------------------------------
+Oferta 4
+Puesto: Senior Business Intelligence Developer
+Senior Business Intelligence Developer with verification
+Empresa: Altia
+Descripción:
+Acerca del empleo
+¿Te entusiasta el análisis de datos y quieres ser parte de un proyecto que vuela alto en innovación? ✈️ ¡Forma parte de nuestro equipo de Data como Senior Business Intelligence Developer!
+
+¿Cómo será tu día a día?
+
+- Transformarás datos en decisiones: Analizarás requisitos de negocio y los convertirás en soluciones de BI.
+- Diseñarás y construirás informes y dashboards que ayudarán a guiar la estrategia.
+- Implementarás soluciones utilizando herramientas como Power BI y Qlik Sense, y diseñarás modelos de datos dimensionales.
+-Construirás Data Warehouses y desarrollarás procesos ETL para la extracción, transformación y carga de datos.
+
+¿Cómo te espera el equipo?
+- Es necesario haber finalizado la Titulación Superior en Ingeniería Informática, Matemáticas o Estadística.
+- Al menos 3 años en desarrollo de soluciones de BI e ingeniería de datos.
+- Experiencia en modelado dimensional y construcción de Data Warehouses, así como en desarrollo de procesos ETL e integración de datos.
+- Dominio de Power BI, Qlik Sense y SQL.
+
+¿Por qué unirte a nuestro equipo?
+
+🏕️ Disfruta de 24 días de vacaciones (24 y 31 diciembre nos lo tomamos de descanso 🍇)
+🕓 Ajusta el horario según tus necesidades, coordinándote con tu equipo.
+💶 Elige cómo obtener parte de tu salario, retribución flexible: seguro médico, transporte, comida, guardería.
+🥇 Mejora tu nivel de idiomas, certificate... a través de nuestro plan de formación tendrás soporte en lo que necesites.
+
+
+¿Cómo puedes unirte?
+Si quieres llevar tu carrera a nuevas alturas y ser parte de un equipo apasionado por los datos, ¡queremos conocerte! 🚀 Envía el CV actualizado a irene.carames@altia.es o inscríbete en la oferta.
+----------------------------------------
+Oferta 5
+Puesto: Splunk Software Engineer
+Splunk Software Engineer with verification
+Empresa: Coforge
+Descripción:
+Acerca del empleo
+Role: Splunk Software Engineer
+Type of contract: Permanent
+Working Model: Hybrid (2 days in client office per week)
+
+En Coforge estamos buscando incorporar un/a Splunk Software Engineer con las siguientes habilidades:
+
+Estamos buscando una persona técnica para unirse a nuestro equipo de datos y análisis en uno de nuestros principales clientes en España. Esta persona formará parte de un equipo existente encargado de la recolección de datos, análisis, visualización y monitoreo para una de las principales áreas de negocio de este cliente. La posición requerirá interactuar con múltiples interesados para recoger requisitos y crear paneles ad-hoc, automatizar elementos de informes existentes, analizar información para mejorar el análisis y la visualización de datos, etc.
+
+Responsabilidades:
+Soporte técnico a los paneles de control implementados.
+Actualización, mejora, renovación y evolución de los paneles existentes, creación de nuevos, creación de nuevas alertas e indicadores, etc.
+Entrega de nuevas mejoras utilizando el conjunto de herramientas técnicas.
+Interacción con múltiples interesados para recopilar requisitos y ser capaz de convertirlos en nuevas características en las aplicaciones.
+Análisis de datos. Análisis de impacto de incidentes.
+Monitoreo de la calidad de los datos.
+Capacidad para priorizar actividades según las prioridades del cliente.
+
+Capacidades técnicas requeridas:
+
+Habilidades "Imprescindibles":
+Splunk (nivel intermedio-avanzado)
+Lenguaje SQL (capacidad para diseñar consultas para recolección y análisis de datos)
+Experiencia en gestión de datos y análisis de datos
+Modelado de datos para la entrega de informes y paneles de control
+
+Habilidades "Deseables":
+Google Analytics
+Dynatrace
+Conocimiento a nivel usuario de herramientas Atlassian (Confluence y JIRA)
+----------------------------------------

@@ -1,0 +1,285 @@
+Oferta 1
+Puesto: Ingeniero Junior en Python
+Ingeniero Junior en Python con verificación
+Empresa: TransPerfect
+
+Descripción:
+Acerca del empleo
+Los Ingenieros de Software Junior son profesionales técnicamente capacitados con deseo de diseñar, desarrollar, solucionar problemas y mantener soluciones innovadoras para cuestiones técnicas de producción, incluyendo el desarrollo de scripts y aplicaciones para la manipulación de datos y archivos.
+El candidato ideal es una persona orientada al trabajo en equipo que prospera en entornos de ritmo rápido, colaborando con otros Ingenieros de Software, Ingenieros de Automatización y Product Managers para desarrollar soluciones creativas en procesos de localización y productos tecnológicos de la empresa. Debe estar automotivado para aprender y tener interés y experiencia en web scraping.
+
+Descripción del puesto:
+
+Escribir código Python limpio, eficiente y mantenible, contribuyendo al desarrollo de aplicaciones y soluciones de software, con un enfoque sólido en crawlers web para sitios de literatura local.
+
+Colaborar con equipos multidisciplinarios, trabajando estrechamente con otros ingenieros, product managers y project managers para definir, desarrollar y entregar funcionalidades de alta calidad.
+
+Detectar y depurar errores, identificar fallos e incidencias en el código, corregirlos y asegurar soluciones robustas y de alto rendimiento.
+
+Realizar mantenimiento regular de todos los crawlers para asegurar una óptima extracción de datos, garantizando el cumplimiento de los estándares pertinentes y gestionando la recopilación de datos a gran escala.
+
+Brindar soporte técnico a los project managers para todos los crawlers, aprendiendo todas las tecnologías de TransPerfect relacionadas con el servicio de monitoreo de literatura local.
+
+Integrar y utilizar APIs (tanto externas como internas) para garantizar una integración fluida y alto rendimiento entre nuestras tecnologías principales.
+
+Asistir en las pruebas de software y documentación, participando en la escritura de pruebas unitarias, pruebas funcionales y ayudando a mantener la documentación del código y los procesos.
+
+Aprender y desarrollarse en nuevas tecnologías: mantenerse actualizado sobre tecnologías emergentes y buenas prácticas de ingeniería de software, aplicándolas para resolver problemas.
+
+Apoyar el proceso de despliegue ayudando en la implementación y monitoreo de aplicaciones en entornos de staging y producción.
+
+Completar todas las tareas adicionales que se consideren apropiadas para este puesto y que sean asignadas por el gerente/supervisor.
+
+Habilidades y cualificaciones requeridas:
+
+Título universitario mínimo (o equivalente).
+
+Mínimo 1-2 años de experiencia en desarrollo de software usando Python.
+
+Fluidez en inglés.
+
+Dominio de la escritura de código en Python.
+
+Capacidad para escribir nuevo código y trabajar con código preexistente, comprendiéndolo y depurándolo.
+
+Excelentes habilidades para la resolución de problemas de software.
+
+Manejo de Microsoft Office (Word, Excel, Outlook).
+
+Habilidades excepcionales de resolución de problemas y análisis.
+
+Creatividad y actitud proactiva.
+
+Capacidad para aprender y destacarse en diversos entornos tecnológicos.
+
+Curiosidad constante y deseo de mejorar procesos.
+
+Gran atención al detalle para garantizar entregables de alta calidad al cliente.
+
+Excelentes habilidades de comunicación y organización.
+
+Capacidad para trabajar de forma independiente, así como colaborar en equipo, con soltura para interactuar con otros equipos.
+
+Capacidad para gestionar y trabajar en múltiples proyectos.
+
+Fuerte ética de trabajo.
+
+Habilidades y cualificaciones deseadas:
+
+Fluidez en un idioma extranjero.
+
+Experiencia con web crawling/web scraping y/o automatización de navegadores (específicamente Selenium, Requests y BeautifulSoup4).
+
+Experiencia con SQL para consultas y manipulación de datos.
+
+Conocimientos en desarrollo de middleware que consuma APIs REST.
+
+Experiencia trabajando bajo metodología Agile/Scrum.
+
+Historial comprobado de implementación exitosa en todas las etapas del ciclo de vida de un proyecto, desde la recopilación de requisitos hasta la implementación y mejoras.
+
+Conocimiento de APIs de Aspose.
+
+Certificaciones de desarrollo en AWS/Azure/GCP.
+
+Experiencia en pipelines de DevOps.
+
+TransPerfect ofrece igualdad de oportunidades laborales a todas las personas, independientemente de su raza, color, credo, religión, género, edad, orientación sexual, origen nacional, discapacidad, condición de veterano o cualquier otra característica protegida por la legislación local.
+
+Celebramos la diversidad como uno de nuestros valores fundamentales y tenemos un objetivo claro: ser un lugar de trabajo inclusivo donde una mezcla diversa de personas talentosas quiera venir, quedarse y dar lo mejor de sí. Junto con colegas apasionados, creativos y colaborativos, trabajamos para garantizar que la accesibilidad sea para todos.
+
+Al postularme, confirmo que he leído y acepto la Política de Privacidad de TransPerfect: https://www.transperfect.com/about/data-privacy-recruiting
+----------------------------------------
+Oferta 2
+Puesto: Responsable de Data & AI
+Responsable de Data & AI with verification
+Empresa: Inetum
+Descripción:
+Acerca del empleo
+🚀 Únete a Inetum como Responsable de Data & AI
+¿Eres un líder visionario apasionado por la tecnología y la innovación? Esta es tu oportunidad para dirigir nuestra unidad de negocio de Data & AI, transformando industrias y generando impacto real.
+
+
+🔍 Lo que harás:
+Liderarás un equipo multidisciplinar, con un alto volumen de negocio.
+Diseñarás y ejecutarás estrategias innovadoras de Data & AI para sectores clave como banca, telecomunicaciones, retail, salud, ...
+Potenciarás relaciones con clientes estratégicos y socios tecnológicos líderes del mercado.
+Gestionarás el P&L de la unidad, impulsando rentabilidad y excelencia.
+
+
+🌟 Lo que buscamos:
+Experiencia liderando unidades de negocio en Data & AI o tecnologías afines en consultoría o integración.
+Experiencia en áreas como Data Governance, Plataformas y Arquitectura, Visualización e IA.
+Habilidades excepcionales en desarrollo de negocio y gestión de equipos grandes y diversos.
+Pasión por la tecnología, el impacto social y la transformación digital.
+Inglés nivel alto (C1 o superior).
+
+
+🎯 Lo que ofrecemos:
+Liderar una unidad clave en un entorno dinámico y en constante evolución.
+Acceso a proyectos estratégicos con clientes líderes y tecnologías de vanguardia.
+Retribución competitiva y entorno de trabajo flexible y colaborativo.
+
+
+📍 Ubicación: Madrid, modalidad de trabajo híbrida.
+
+
+Sé parte de la transformación. ¿List@ para liderar el futuro de Data & AI con nosotros? 🌐
+----------------------------------------
+Oferta 3
+Puesto: Data Scientist (Junior)
+Data Scientist (Junior) con verificación
+Empresa: TENDAM
+
+Descripción:
+Acerca del empleo
+Estamos ampliando nuestro equipo de ciencia de datos para ayudar a Tendam a resolver desafíos complejos en la industria de la moda retail. Actualmente buscamos un/a Data Scientist para una oportunidad única de influir en la forma en que el mundo experimenta la moda.
+
+Qué harás:
+
+Descomponer problemas complejos de datos y realizar análisis rigurosos y evaluaciones.
+
+Llevar a cabo el preprocesamiento de datos estructurados y no estructurados.
+
+Extraer y analizar datos de las bases de datos de la empresa para impulsar la optimización y mejora del desarrollo de productos, técnicas de marketing y estrategias comerciales.
+
+Desarrollar modelos de datos y algoritmos personalizados para aplicarlos a conjuntos de datos.
+
+Presentar la información mediante técnicas de visualización de datos.
+
+Qué buscamos:
+
+Formación científica con habilidades computacionales y analíticas.
+
+Sólidas habilidades para la resolución de problemas.
+
+Conocimientos de programación en Python y SQL.
+
+Comprensión y experiencia con sistemas de big data, especialmente Spark (PySpark).
+
+Conocimiento de diversas técnicas de aprendizaje automático (clustering, regresión, árboles de decisión, redes neuronales, etc.).
+
+Experiencia con herramientas y librerías de visualización de datos.
+
+Motivación para aprender y dominar nuevas tecnologías y técnicas.
+
+Excelentes habilidades de comunicación oral y escrita.
+
+~1 año de experiencia en la industria.
+
+Cualificaciones adicionales:
+
+Experiencia trabajando con grandes volúmenes de datos.
+
+Experiencia con servicios web en la nube (por ejemplo, AWS).
+
+Conocimiento y experiencia con sistemas de control de versiones (por ejemplo, Git).
+
+Por qué Tendam:
+
+Uno de los mayores repositorios de datos de clientes en la industria: más de 20 millones de miembros del Club.
+
+Trabajo con múltiples fuentes de datos diferentes: compras, campañas de marketing, productos, navegación web, apps, etc.
+
+Trabajo con tecnologías punteras y desarrollo de modelos de machine learning para resolver problemas reales: ¡impacto directo en el negocio!
+
+Capacidad de probar inmediatamente los resultados de los modelos en pilotos reales: ¡tiempo de salida al mercado muy rápido!
+
+Exposición a metodologías ágiles.
+
+Trabajo junto a Data Scientists senior para acelerar tu desarrollo profesional.
+
+Trabajo en una industria dinámica y desafiante.
+
+Ubicación oficinas: Madrid capital, zona norte, accesible en transporte público (metro, cercanías-Renfe y autobuses urbanos e interurbanos).
+Horario jornada flexible: de lunes a jueves, entrada entre las 7:30 y las 9:30h, salida entre las 17:00 y las 19:00h. Viernes jornada intensiva y flexible: entrada entre las 7:30 y las 9:30h, salida entre las 13:00 y las 15:00h.
+Contrato indefinido.
+Salario fijo + variable.
+Incorporación inmediata (entendiendo que si la persona seleccionada se encuentra actualmente trabajando en otra empresa, deberá dar el preaviso correspondiente y se coordinará una fecha de incorporación entre ambas partes).
+----------------------------------------
+Oferta 4
+Puesto: Business Analyst / Product Owner Posición Global & Landings (100% remoto desde España)
+Business Analyst / Product Owner Posición Global & Landings (100% remoto desde España)
+Empresa: UST España & Latam
+Descripción:
+Acerca del empleo
+🚀 ¡Seguimos buscando talento…y nos encantaría que te unieras a nuestro equipo!
+
+Para que nos conozcas algo mejor, UST es una multinacional norteamericana certificada como Top Employer y Great Place to Work con más de 35.000 empleados a nivel global y con presencia en más de 35 países. Somos líderes en servicios de tecnología digital y proporcionamos soluciones tecnológicas de gran alcance a grandes compañías.
+
+🔎 ¿Qué buscamos?
+Estamos en búsqueda de un Product Owner y/o Business Analyst con experiencia en Posición Global, para dar servicio a uno de nuestros clientes líder en el sector bancario.
+
+Colaboración 100% remota desde cualquier provincia de España.
+
+📋 Funciones:
+Toma y planificación de requerimientos.
+Dimensionamiento de equipos.
+Seguimiento de los desarrollos de los equipos.
+Preparación, seguimiento y validación del testing.
+Paquetización de requerimientos para subidas a entornos Pre / Pro
+Gestión de incidencias.
+Reporting interno y seguimiento de KPIs.
+
+💡 Qué esperamos de ti:
+
+Aportar al menos 5 años de experiencia como Product Owner y/o Business Analyst con experiencia en Posición Global.
+Background técnico, con experiencia en el mundo de desarrollo, idealmente en la parte web y/o de microservicios, APIs (ser capaz de leer y entender logs y revisar código)
+Uso de Jira, Confluence y Postman.
+Experiencia trabajando y liderando equipos Agile Scrum.
+Conocimiento de los procesos Agile Scrum y sus ceremonias (planning, retrospective, dailys & reviews)
+Tener experiencia trabajando con áreas cross de la compañía (Legal, Compliance, Producto…) para trasladar sus necesidades/especificaciones a requerimientos funcionales del producto.
+Experiencia en comunicación efectiva con stakeholders digitales.
+Inglés nivel B2
+
+💰 ¿Qué te ofrecemos?
+
+✈️ 23 días laborables de vacaciones y el 24 y 31 de diciembre.
+❤️ Numerosos beneficios sociales (seguro médico, ayuda al teletrabajo, seguro de vida y seguro de accidentes).
+🍴 Programa de Retribución Flexible (tarjeta comida, cheques guardería, tarjeta transporte, clases de inglés online, seguro médico para tu familia…).
+🎓 Acceso gratuito a varias plataformas de formación.
+🚀 Estabilidad y carrera profesional.
+🚶 Tenemos implantado un plan de compensación de referencias internas.
+🔗 Posibilidad de elección de percibir tu salario en 12 o 14 pagas.
+🏡 Medidas de conciliación (horario flexible, teletrabajo, asesoramiento de especialistas (psicólogo, nutricionista, entrenador personal), jornada intensiva los viernes y en verano según proyecto).
+🎁 Plataforma UST Club descuentos y descuentos en gimnasios.
+
+📧 Si quieres conocer más, no dudes en inscribirte y nos pondremos en contacto contigo para ampliarte información de la posición ¡Te estamos esperando!
+
+En UST nos comprometemos con la igualdad de oportunidades en nuestros procesos de selección y no realizamos ningún tipo de discriminación por razón de raza, género, discapacidad, edad, religión, orientación sexual o nacionalidad. Estamos comprometidos con la discapacidad y apostamos por la incorporación de personas con certificado de discapacidad.
+----------------------------------------
+Oferta 5
+Puesto: Consultor Business Intelligence - Sevilla - España
+Consultor Business Intelligence - Sevilla - España
+Empresa: MP Lifts - Ascensores
+Descripción:
+Acerca del empleo
+✨ 💡 ¡Buscamos un/a Consultor/a de Business Intelligence en Sevilla! 💡 ✨
+
+Desde MP Ascensores, empresa líder en el sector de la elevación, buscamos incorporar a nuestro equipo en Sevilla un/a profesional con formación universitaria y al menos 5 años de experiencia en Business Intelligence. Si te apasiona el análisis de datos y quieres trabajar en un entorno internacional y multidisciplinar, esta oportunidad es para ti.
+
+📈 Lo que harás en tu día a día:
+
+✔ Administrar y mantener la infraestructura de datos garantizando su calidad y consistencia.
+✔ Diseñar e implementar procesos ETL para la extracción, transformación y carga de datos desde múltiples fuentes.
+✔ Recopilar, depurar y consolidar datos internos y externos para generar informes estratégicos.
+✔ Desarrollar dashboards y reportes en Power BI para optimizar la toma de decisiones.
+✔ Colaborar con diferentes equipos para definir indicadores clave y mejorar la explotación de datos.
+✔ Automatizar procesos y optimizar flujos de trabajo para mejorar la eficiencia operativa.
+✔ Analizar tendencias y realizar recomendaciones basadas en datos para mejorar el rendimiento del negocio.
+✔ Brindar apoyo y formación a usuarios sobre el correcto uso de herramientas de Business Intelligence.
+✔ Identificar y proponer mejoras en metodologías, herramientas y procesos de gestión de datos.
+
+🌟 Lo que ofrecemos:
+
+📚 Contrato indefinido y estabilidad en un proyecto de futuro.
+👨‍💼 Desarrollo profesional basado en el mérito y la asunción de responsabilidades.
+🌍 Entorno dinámico e internacional con personas de distintas culturas, idiomas y nacionalidades.
+💪 Excelente ambiente laboral, con un equipo que #disfrutatrabajando.
+💸 Paquete salarial competitivo, acorde a tu experiencia y valor aportado.
+🚀 ¡Sé parte de nuestro equipo y ayúdanos a transformar datos en oportunidades!
+
+Si crees que este reto es para ti, inscríbete ahora o comparte esta oportunidad con alguien que pueda estar interesado/a.
+
+#BusinessIntelligence #PowerBI #MPAscensores #OportunidadLaboral #TrabajoSevilla #DataDriven #ConsultorBI
+----------------------------------------
