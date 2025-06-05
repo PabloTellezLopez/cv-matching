@@ -1,0 +1,15 @@
+cv00.pdf cdatos 0.9 ingdatos 0.6
+cv01.pdf traductor 0.9 jurista 0.1
+cv02.pdf cdatos 0.05 ingdatos 0.01
+cv03.pdf cdatos 0.2 ingdatos 0.1
+cv04.pdf traductor 0.2 jurista 0.05
+cv05.pdf jurista 0.1 traductor 0.05
+cv06.pdf traductor 0.1 jurista 0.05
+cv07.pdf cdatos 0.3 jurista 0.1
+cv08.pdf traductor 0.1 ingdatos 0.05
+cv09.pdf jurista 0.6 cdatos 0.05
+cv10.pdf jurista 0.1 traductor 0.05
+cv11.pdf jurista 0.2 ingdatos 0.025
+cv12.pdf cdatos 0.85 ingdatos 0.5
+cv13.pdf ingdatos 0.6 cdatos 0.4
+cv14.pdf traductor 0.1 jurista 0.05
