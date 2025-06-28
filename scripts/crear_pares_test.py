@@ -1,6 +1,23 @@
 import os
 import glob
 import pandas as pd
+import re
+
+def read_cv_texts(file_path="data/interim/cvs_test_preprocesado.csv"):
+    """
+    Devuelve un diccionario {cv_id: texto_cv} a partir del CSV de CVs preprocesados.
+    El archivo debe tener las columnas: 'Nombre del archivo', 'texto_normalizado'.
+    """
+    df = pd.read_csv(file_path)
+    return dict(zip(df["Nombre del archivo"], df["texto_normalizado"]))
+
+
+def normalizar_texto(texto):
+    texto = texto.lower()
+    texto = re.sub(r"acerca del empleo\s*", "", texto)
+    texto = texto.replace("\n", " ")
+    texto = re.sub(r"\s+", " ", texto)
+    return texto.strip()
 
 
 def parse_cv_sector_mapping(mapping_file):
@@ -97,6 +114,7 @@ def read_offers(folder_path=".", pattern="*_ofertas.csv"):
         df["sector_oferta"] = sector
         if "offer_id" not in df.columns:
             df["offer_id"] = [f"{sector}_{i}" for i in range(len(df))]
+        df["texto_oferta"] = df["descripcion_oferta"].apply(normalizar_texto)  # 👈 NUEVO
         offer_dfs.append(df)
     try:
         offers = pd.concat(offer_dfs, ignore_index=True)
@@ -105,7 +123,7 @@ def read_offers(folder_path=".", pattern="*_ofertas.csv"):
     return offers
 
 
-def build_pairwise_dataset(mapping, offers, label_threshold=0.5):
+def build_pairwise_dataset(mapping, offers, cv_texts, label_threshold=0.5):
     """
     Genera todas las combinaciones posibles CV-oferta, asignando score y label binario.
 
@@ -134,9 +152,11 @@ def build_pairwise_dataset(mapping, offers, label_threshold=0.5):
                     "sector_oferta": sector,
                     "score": score,
                     "label_binario": label_bin,
-                    **offer_info,
+                    "texto_cv": cv_texts.get(cv_id, ""),          # 👈 NUEVO
+                    **offer_info,  # incluye 'texto_oferta' que ya está en offer_info
                 }
             )
+
     if not all_pairs:
         raise ValueError(
             "No se generaron pares CV-oferta. ¿Revisaste los archivos de entrada?"
@@ -186,7 +206,10 @@ def save_dataset(df, output_file="data/interim/dataset_ranking_test.csv"):
         "score",
         "label_binario",
         "rank",
+        "texto_cv",        # 👈 NUEVO
+        "texto_oferta",    # 👈 NUEVO
     ]
+
     if not all(col in df.columns for col in columnas_finales):
         missing = [col for col in columnas_finales if col not in df.columns]
         raise ValueError(f"Faltan columnas en el DataFrame para guardar: {missing}")
@@ -205,7 +228,8 @@ def main():
     try:
         mapping = parse_cv_sector_mapping(mapping_file)
         offers = read_offers(offers_folder)
-        df_pairs = build_pairwise_dataset(mapping, offers, label_threshold=0.5)
+        cv_texts = read_cv_texts()
+        df_pairs = build_pairwise_dataset(mapping, offers, cv_texts, label_threshold=0.5)
         df_pairs_ranked = add_ranking(df_pairs)
         save_dataset(df_pairs_ranked, output_file=output_file)
         print(
