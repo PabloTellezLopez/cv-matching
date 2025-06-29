@@ -1,31 +1,37 @@
 import os
 import csv
 import pdfplumber
+from pathlib import Path
 
-# Definir la carpeta donde están los CVs
-ruta_cvs = r"C:\Users\Pablo\OneDrive - Universidad Loyola Andalucía\Master\TFM\CVs_Train"
-ruta_csv = r"C:\Users\Pablo\OneDrive - Universidad Loyola Andalucía\Master\TFM\cvs_texto_train.csv"
-
-# Obtener todos los archivos PDF en la carpeta y ordenarlos
-archivos_cvs = sorted([f for f in os.listdir(ruta_cvs) if f.endswith(".pdf")])
-
-# Crear y escribir el CSV
-with open(ruta_csv, mode="w", newline="", encoding="utf-8-sig") as archivo_csv:
-    escritor_csv = csv.writer(archivo_csv)
-    
-    # Escribir encabezados
-    escritor_csv.writerow(["Nombre del archivo", "Texto extraído"])
-    
-    # Recorrer cada CV y extraer su texto
-    for archivo in archivos_cvs:
-        ruta_pdf = os.path.join(ruta_cvs, archivo)
-        texto_completo = ""
-
-        with pdfplumber.open(ruta_pdf) as pdf:
+def extract_text_from_pdf(pdf_path):
+    """Extrae el texto de un archivo PDF."""
+    texto_completo = ""
+    try:
+        with pdfplumber.open(pdf_path) as pdf:
             for pagina in pdf.pages:
                 texto_completo += " " + (pagina.extract_text() or "").replace("\n", " ")
+    except Exception as e:
+        print(f"Error al procesar {pdf_path}: {e}")
+    return texto_completo.strip()
 
-        # Escribir en el CSV
-        escritor_csv.writerow([archivo, texto_completo])
+def process_cvs_folder(input_folder, output_csv):
+    """Procesa todos los PDFs de una carpeta y guarda el texto extraído en un CSV."""
+    input_path = Path(input_folder)
+    pdf_files = sorted([f for f in input_path.iterdir() if f.suffix.lower() == ".pdf"])
 
-print(f"✅ CSV generado correctamente en: {ruta_csv}")
+    with open(output_csv, mode="w", newline="", encoding="utf-8-sig") as archivo_csv:
+        escritor_csv = csv.writer(archivo_csv)
+        escritor_csv.writerow(["Nombre del archivo", "Texto extraído"])
+        for pdf_file in pdf_files:
+            texto = extract_text_from_pdf(pdf_file)
+            escritor_csv.writerow([pdf_file.name, texto])
+    print(f"✅ CSV generado correctamente en: {output_csv}")
+
+if __name__ == "__main__":
+    datasets = {
+        "train": ("data/raw/cvs_train", "data/interim/cvs_texto_train.csv"),
+        "test": ("data/raw/cvs_test", "data/interim/cvs_texto_test.csv"),
+    }
+    for name, (folder, csv_path) in datasets.items():
+        print(f"Procesando {name}...")
+        process_cvs_folder(folder, csv_path)
