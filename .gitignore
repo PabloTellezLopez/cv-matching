@@ -175,3 +175,6 @@ cython_debug/
 
 # Añadimos los datos de los CVs reales
 data/raw/cvs_test/
+
+# Añadimos los modelos
+models
